@@ -1,0 +1,63 @@
+{
+    "Name": "Preeti Sharma",
+    "Title": "Computer Science Geek, Blockchain Developer, Machine Learning Enthusist",
+    "ProfilePic": "https://media-exp1.licdn.com/dms/image/C4D35AQFSgrhhqZfpGw/profile-framedphoto-shrink_400_400/0/1594885265455?e=1620831600&v=beta&t=ZKuzD7Wbvs_cu-B5_OWJwHY_BCcRbT9FyzTgRVjJWhY",
+    "About": {
+        "Location": "Jaipur, Rajasthan, India",
+        "Phone": "+91 978 207 8532",
+        "Email": "preetidevsang@gmail.com",
+        "Description": ", I am an Innovative , hard working and workaholic person. I'm a very passionate learner and always looking to work on a problem with practical and social impact. I have experience in Python, proficient in C++ and learning machine learning. Apart from my professional life, I like to meet people, exchange thoughts and ideas with them."
+    },
+    "Education": [{
+        "Degree": "Bachelors of Technology",
+        "Branch": "Computer Science",
+        "University": "Jecrc University",
+        "Description": "Bachelors of Technology in Computer Science Technology from Anna University and got an A++ so far...",
+        "GPA": "8.5",
+        "Dates": "July 2017 to Present"
+    }],
+    "Experience": [{
+            "Role": "Blockchain Trainee Engineer",
+            "Company": "Whrrl Fintech Solutions",
+            "Description": "Setup Binance Smart Chain and AAVA on local and run the smart contracts through them such that we could access the functionality on both the platforms, and integrate the non-fungible token in the app accordingly . Worked on quorum blockchain explorer in detail",
+            "Dates": "Feb 2021 to Apr 2021"
+        },
+        {
+            "Role": "Company 1 Role",
+            "Company": "Company 1 Name",
+            "Description": "Company 1 Description",
+            "Dates": "Jun 2019 to Dec 2019"
+        }
+    ],
+    "Socials": {
+        "LinkedIn": "https://www.linkedin.com/in/preeti-sharma-155a85181/",
+        "Instagram": "https://www.instagram.com/leovarmak/",
+        "Twitter": "https://twitter.com/Leovarmak1",
+        "Facebook": "https://www.facebook.com/profile.php?id=100021626479048",
+        "GitHub": "https://github.com/preeti13456"
+    },
+    "Skills": {
+        "Programming": [
+            "html5",
+            "css3-alt",
+            "js-square",
+            "angular",
+            "react",
+            "node-js",
+            "cpp",
+            "dart",
+            "solidity",
+            "python",
+            "typescript",
+            "npm"
+        ],
+        "Workflow": [
+            "Mobile-First, Responsive Design",
+            "Cross Browser Testing &amp; Debugging",
+            "Cross Functional Teams",
+            "Agile Development &amp; Scrum"
+        ]
+    },
+    "Interests": ["Dancing", "Listening Music"],
+    "Awards": ["Won goodies from snapchat for being the top performer in Snapchat Skilenza Hackthon", "Idea got selected for build for Digital India Hackthon "]
+}
